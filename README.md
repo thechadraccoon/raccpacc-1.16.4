@@ -1,5 +1,6 @@
-# raccpacc-1.16.4
+# Racc Pacc 1.16.4
 Pack moddé minecraft 1.16.4 basé sur All The Mods 6
+ModPack minecraft 1.16.4 based on All The Mods 6
 
 contenu:
 - [ATM6](https://www.curseforge.com/minecraft/modpacks/all-the-mods-6)
